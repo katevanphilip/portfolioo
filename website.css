@@ -1,0 +1,43 @@
+.top {
+  width: 40px
+}
+
+h1 {
+  color: blue;
+  font-style: italic;
+}
+
+header{
+  font-size: 30px;
+  font-family: 'Lobster', cursive;
+}
+  
+
+
+nav a {
+  color: black;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+
+}
+
+nav a:hover {
+  background: grey;
+}
+  
+
+.para{
+  color: black;
+  position: relative;
+  top: -155px;
+  padding-left: 160px;
+  padding-right: 150px;
+
+}
+
+div img{
+  display: inline
+}
+
+footer{
